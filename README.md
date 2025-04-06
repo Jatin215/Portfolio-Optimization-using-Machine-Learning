@@ -24,6 +24,7 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 
 ## Acknowledgements
 This project makes use of the following open-source libraries and frameworks:
+
 Pandas: https://pandas.pydata.org/
 
 NumPy: https://numpy.org/
