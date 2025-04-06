@@ -10,7 +10,9 @@ We have downloaded the data using the yahoo finance library in pyhton.
 
 ## Tech Stack/Frameworks
 Data Cleaning: NumPy, Pandas
+
 Visualization: Matplotlib, Seaborn
+
 Machine Learning Models: Random Forest, Linear Regression
 
 ## Conclusion
@@ -23,8 +25,13 @@ Contributions to this project are welcome! If you have any suggestions, improvem
 ## Acknowledgements
 This project makes use of the following open-source libraries and frameworks:
 Pandas: https://pandas.pydata.org/
+
 NumPy: https://numpy.org/
+
 Matplotlib: https://matplotlib.org/
+
 Seaborn: https://seaborn.pydata.org/
+
 Scikit-learn: https://scikit-learn.org/
+
 We would like to express our gratitude to the developers of these tools for their invaluable contributions to the open-source community.
